@@ -115,7 +115,7 @@ namespace Training_Practice__9
             return beg;
         }
 
-        static void Main(string[] args)
+        static void Main(string[] args) // Основной листнинг программы 
         {
             Console.Clear();
             Console.WriteLine("Учебная практика №9, Власов Виктор");
